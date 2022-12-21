@@ -1,2 +1,33 @@
 
 /* Your CSS Code here. */
+.row{
+    padding-bottom: 20px;
+}
+.item{
+    background-color: green;
+    color: white;
+    height: 300px;
+}
+.item-1{
+    background-color:pink;
+    color: white;
+    height: 300px;
+}
+.item-2{
+    background-color:orange;
+    color: white;
+    height: 300px;
+}
+.item-3{
+    background-color:skyblue;
+    color: white;
+    height: 300px;
+}
+.item-4{
+    background-color:greenyellow;
+    color: white;
+    height: 300px;
+}
+.container{
+    background-color: brown;
+}
