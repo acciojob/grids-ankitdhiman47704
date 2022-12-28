@@ -1,33 +1,43 @@
 
 /* Your CSS Code here. */
-.row{
-    padding-bottom: 20px;
+
+html
+{
+    margin-top: 10px;
 }
-.item{
-    background-color: green;
-    color: white;
-    height: 300px;
+
+.myrow
+{
+    border: 5px solid pink;
+    background: rgb(38, 7, 7);
 }
-.item-1{
-    background-color:pink;
-    color: white;
-    height: 300px;
+
+.r1c1
+{
+    background-color: teal;
 }
-.item-2{
-    background-color:orange;
-    color: white;
-    height: 300px;
+
+.r1c2
+{
+    background-color: lightpink;
 }
-.item-3{
-    background-color:skyblue;
-    color: white;
-    height: 300px;
+
+.r2c1
+{
+    background-color:tomato;
 }
-.item-4{
-    background-color:greenyellow;
-    color: white;
-    height: 300px;
+
+.r2c2
+{
+    background-color: cyan;
 }
-.container{
-    background-color: brown;
+
+.r3c1
+{
+    background-color: palevioletred;
+}
+
+.r3c2
+{
+    background-color: greenyellow;
 }
